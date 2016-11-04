@@ -1,0 +1,50 @@
+﻿$ git init
+
+$ git add *.c
+
+$ git add README 
+
+$ git commit -m 'initial project version'
+
+$ git clone [url] [自定义项目名称]
+
+$ git status
+
+$ git diff
+$ git diff --cached
+
+$ git commit
+
+$ git commit -a -m 'added new benchmarks'
+
+$ gedit .gitignore
+
+$ rm grit.gemspec
+
+$ git rm grit.gemspec
+
+$ git rm --cached readme.txt
+
+$ git rm log/\*.log
+$ git rm \*~
+
+$ git mv file_from file_to
+$ gitk
+
+$ git commit --amend
+
+$ git reset HEAD benchmarks.rb
+
+$ git checkout -- benchmarks.rb
+
+$ git remote
+$ git remote -v
+
+$ git remote add pb git://github.com/paulboone/ticgit.git
+
+$ git fetch [remote-name]
+$ git remote show [remote-name]
+
+$ git push [remote-name] [branch-name]
+
+$ git pull
