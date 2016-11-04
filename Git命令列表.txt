@@ -1,4 +1,5 @@
-﻿$ git init
+﻿![image](https://github.com/chensiwen/Website-Summary/raw/master/GIT.jpg)
+$ git init
 
 $ git add *.c
 
